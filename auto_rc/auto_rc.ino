@@ -1,6 +1,7 @@
 #include "Arduino.h"
 #include <ESP8266WiFi.h>
 
+// de watchdog-timer gaf te veel problemen.
 
 #define Right_forward D3 
 #define Left_forward D5
